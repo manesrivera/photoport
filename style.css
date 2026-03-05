@@ -28,12 +28,9 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    text-align: center;
     background-size: cover;
     background-position: center;
     padding: 20px;
-    height: 100vh;
     width: 100%;
 }
 
@@ -265,3 +262,4 @@ h1 {
     from { transform: scale(0.9); opacity: 0; }
     to { transform: scale(1); opacity: 1; }
 }
+
