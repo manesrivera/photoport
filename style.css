@@ -31,12 +31,6 @@ body {
     align-items: center;
 }
 
-@media (max-width: 480px){
-    .hero{
-        background-image: url('Camara/photo00.jpg');
-    }
-}
-
 
 .hero-content {
     flex: 1;
@@ -263,6 +257,7 @@ h1 {
     from { transform: scale(0.9); opacity: 0; }
     to { transform: scale(1); opacity: 1; }
 }
+
 
 
 
