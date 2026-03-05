@@ -56,20 +56,6 @@ body {
         transparent 100%);
 }
 
-@media (max-width: 768px){
-    .hero h1{
-        font-size: 2rem;
-    }
-
-    .hero p{
-        font-size: 1rem;
-        padding: 0 10px;
-    }
-
-    .hero{
-        background-attachment: scroll;
-    }
-}
 
 /* Tipografía Dinámica */
 
